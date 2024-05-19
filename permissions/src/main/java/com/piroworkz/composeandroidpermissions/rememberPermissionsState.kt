@@ -1,4 +1,4 @@
-package com.davidluna.composeandroidpermissions
+package com.piroworkz.composeandroidpermissions
 
 import androidx.activity.compose.ManagedActivityResultLauncher
 import androidx.activity.compose.rememberLauncherForActivityResult
